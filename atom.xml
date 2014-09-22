@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://adhalanay.github.io/atom.xml" rel="self"/>
   <link href="http://adhalanay.github.io/"/>
-  <updated>2014-09-22T10:24:45+03:00</updated>
+  <updated>2014-09-22T13:05:23+03:00</updated>
   <id>http://adhalanay.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,5 +12,18 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Test Latex]]></title>
+    <link href="http://adhalanay.github.io/blog/2014/09/22/test-latex/"/>
+    <updated>2014-09-22T12:23:11+03:00</updated>
+    <id>http://adhalanay.github.io/blog/2014/09/22/test-latex</id>
+    <content type="html"><![CDATA[<h1>Test pentru Latex</h1>
+
+<p>$$
+\frac{x+y}{x<sup>2</sup>-y<sup>2</sup>}=\frac{1}{x-y}
+$$</p>
+]]></content>
+  </entry>
   
 </feed>
