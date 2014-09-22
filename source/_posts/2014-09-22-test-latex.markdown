@@ -6,7 +6,8 @@ comments: true
 categories: 
 ---
 
-==Test pentru Latex==
+Test pentru Latex
+=================
 
 $$
 \frac{x+y}{x^2-y^2}=\frac{1}{x-y}
