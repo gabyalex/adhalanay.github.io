@@ -4,14 +4,24 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://adhalanay.github.io/atom.xml" rel="self"/>
   <link href="http://adhalanay.github.io/"/>
-  <updated>2014-09-30T21:14:08+03:00</updated>
+  <updated>2014-09-30T21:35:20+03:00</updated>
   <id>http://adhalanay.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Andrei Halanay]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Primele Probleme]]></title>
+    <link href="http://adhalanay.github.io/blog/2014/09/30/primul-cs/"/>
+    <updated>2014-09-30T21:16:51+03:00</updated>
+    <id>http://adhalanay.github.io/blog/2014/09/30/primul-cs</id>
+    <content type="html"><![CDATA[<p>Cîteva probleme de geometrie și mecanică, ale căror soluții sînt curbe (plane).
+<a href="http://adhalanay.github.io/curbe-si-suprafete/probleme0.html">Probleme 0</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Test Latex]]></title>
