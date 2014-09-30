@@ -6,10 +6,10 @@
 <head>
   <meta charset="utf-8">
   <title>My Octopress Blog</title>
-  <meta name="author" content="Your Name">
+  <meta name="author" content="Andrei Halanay">
 
   
-  <meta name="description" content="Welcome to my website! Inline We can render inline math like $a^2 + b^2 = c^2$ by surrounding the MathJax markup with single dollar symbols like so &hellip;">
+  <meta name="description" content="Test pentru Latex ">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -53,6 +53,22 @@
     <h2>A blogging framework for hackers.</h2>
   
 </hgroup>
+<script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+      jax: ["input/TeX", "output/HTML-CSS"],
+      tex2jax: {
+        inlineMath: [ ['$', '$'], ["\\(", "\\)"] ],
+        displayMath: [ ['$$', '$$'], ["\\[", "\\]"] ],
+        processEscapes: true,
+        skipTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code']
+      }
+      //,
+      //displayAlign: "left",
+      //displayIndent: "2em"
+    });
+</script>
+<script src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML" type="text/javascript"></script>
+
 
 </header>
   <nav role="navigation"><ul class="subscription" data-subscription="rss">
@@ -70,52 +86,57 @@
 <ul class="main-navigation">
   <li><a href="/">Blog</a></li>
   <li><a href="/blog/archives">Archives</a></li>
+  <li><a href="/curbe-si-suprafete">Curbe și Suprafețe</a></li>
 </ul>
 
 </nav>
   <div id="main">
     <div id="content">
-      <div>
-<article role="article">
+      <div class="blog-index">
   
-  <h2 id="welcome-to-my-website">Welcome to my website!</h2>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2014/09/22/test-latex/">Test Latex</a></h1>
+    
+    
+      <p class="meta">
+        
 
-<h3 id="inline">Inline</h3>
 
-<p>We can render inline math like $a^2 + b^2 = c^2$ by surrounding the MathJax markup with single dollar symbols like so: <code>$a^2 + b^2 = c^2$</code>.</p>
 
-<h3 id="block">Block</h3>
 
-<p>To generate standalone blocks of math, add double dollar symbols on new lines before and after the markup.</p>
+<time class='entry-date' datetime='2014-09-22T12:23:11+03:00'><span class='date'><span class='date-month'>Sep</span> <span class='date-day'>22</span><span class='date-suffix'>nd</span>, <span class='date-year'>2014</span></span> <span class='time'>12:23 pm</span></time>
+        
+           | <a href="/blog/2014/09/22/test-latex/#disqus_thread"
+             data-disqus-identifier="http://adhalanay.github.io/blog/2014/09/22/test-latex/">Comments</a>
+        
+      </p>
+    
+  </header>
 
-<pre><code>$$
-P(E)   = {n \choose k} p^k (1-p)^{ n-k}
-$$
-</code></pre>
+
+  <div class="entry-content"><h1 id="test-pentru-latex">Test pentru Latex</h1>
 
 <script type="math/tex; mode=display">
-P(E)   = {n \choose k} p^k (1-p)^{ n-k}
+\frac{x+y}{x^2-y^2}=\frac{1}{x-y}
 </script>
-
-  
-    <footer>
-      
-      
-        <div class="sharing">
-  
-  <a href="//twitter.com/share" class="twitter-share-button" data-url="http://adhalanay.github.io/index.html" data-via="" data-counturl="http://adhalanay.github.io/index.html" >Tweet</a>
-  
-  
-  
 </div>
-
-      
-    </footer>
   
-</article>
+  
 
+
+    </article>
+  
+  <div class="pagination">
+    
+    <a href="/blog/archives">Blog Archives</a>
+    
+  </div>
 </div>
-
 <aside class="sidebar">
   
     <section>
@@ -136,11 +157,10 @@ P(E)   = {n \choose k} p^k (1-p)^{ n-k}
   
 </aside>
 
-
     </div>
   </div>
   <footer role="contentinfo"><p>
-  Copyright &copy; 2014 - Your Name -
+  Copyright &copy; 2014 - Andrei Halanay -
   <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
 </p>
 
