@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://adhalanay.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Temă | My Octopress Blog]]></title>
+  <link href="http://adhalanay.github.io/blog/categories/tema/atom.xml" rel="self"/>
   <link href="http://adhalanay.github.io/"/>
   <updated>2014-10-02T17:59:40+03:00</updated>
   <id>http://adhalanay.github.io/</id>
@@ -19,20 +19,7 @@
     <updated>2014-09-30T21:16:51+03:00</updated>
     <id>http://adhalanay.github.io/blog/2014/09/30/primul-cs</id>
     <content type="html"><![CDATA[<p>Cîteva probleme de geometrie și mecanică, ale căror soluții sînt curbe (plane).
-<a href="http://adhalanay.github.io/curbe-si-suprafete/probleme0.html">Probleme 0</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Test Latex]]></title>
-    <link href="http://adhalanay.github.io/blog/2014/09/22/test-latex/"/>
-    <updated>2014-09-22T12:23:11+03:00</updated>
-    <id>http://adhalanay.github.io/blog/2014/09/22/test-latex</id>
-    <content type="html"><![CDATA[<h1 id="test-pentru-latex">Test pentru Latex</h1>
-
-<script type="math/tex; mode=display">
-\frac{x+y}{x^2-y^2}=\frac{1}{x-y}
-</script>
+<a href="/curbe-si-suprafete/probleme0.html">Probleme 0</a></p>
 ]]></content>
   </entry>
   
