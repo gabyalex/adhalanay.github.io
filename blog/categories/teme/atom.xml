@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Teme | My Octopress Blog]]></title>
   <link href="http://adhalanay.github.io/blog/categories/teme/atom.xml" rel="self"/>
   <link href="http://adhalanay.github.io/"/>
-  <updated>2014-10-09T00:53:35+03:00</updated>
+  <updated>2014-10-09T01:08:47+03:00</updated>
   <id>http://adhalanay.github.io/</id>
   <author>
     <name><![CDATA[Andrei Halanay]]></name>
@@ -14,12 +14,11 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Primele Probleme]]></title>
-    <link href="http://adhalanay.github.io/blog/2014/09/30/primul-cs/"/>
-    <updated>2014-09-30T21:16:51+03:00</updated>
-    <id>http://adhalanay.github.io/blog/2014/09/30/primul-cs</id>
-    <content type="html"><![CDATA[<p>Cîteva probleme de geometrie și mecanică, ale căror soluții sînt curbe (plane).
-<a href="/curbe-si-suprafete/probleme0.html">Probleme 0</a></p>
+    <title type="html"><![CDATA[Noua Temă Pentru Anul II]]></title>
+    <link href="http://adhalanay.github.io/blog/2014/10/09/probleme-1/"/>
+    <updated>2014-10-09T01:02:55+03:00</updated>
+    <id>http://adhalanay.github.io/blog/2014/10/09/probleme-1</id>
+    <content type="html"><![CDATA[<p><a href="/curbe-si-suprafete/Probleme1.html">Tangentă și Normală</a></p>
 ]]></content>
   </entry>
   
