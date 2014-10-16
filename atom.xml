@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://adhalanay.github.io/atom.xml" rel="self"/>
   <link href="http://adhalanay.github.io/"/>
-  <updated>2014-10-09T01:15:10+03:00</updated>
+  <updated>2014-10-16T17:36:39+03:00</updated>
   <id>http://adhalanay.github.io/</id>
   <author>
     <name><![CDATA[Andrei Halanay]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Reperul Frenet I]]></title>
+    <link href="http://adhalanay.github.io/blog/2014/10/16/probleme2/"/>
+    <updated>2014-10-16T17:33:08+03:00</updated>
+    <id>http://adhalanay.github.io/blog/2014/10/16/probleme2</id>
+    <content type="html"><![CDATA[<p><a href="http://adhalanay.github.io/curbe-si-suprafete/probleme2.html">Reperul Frenet pentru curbe plane</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Noua Temă Pentru Anul II]]></title>
