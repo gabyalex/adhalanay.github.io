@@ -5,12 +5,11 @@
 <!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
 <head>
   <meta charset="utf-8">
-  <title>Noua Temă Pentru Anul II - My Octopress Blog</title>
+  <title>Probleme 3 - My Octopress Blog</title>
   <meta name="author" content="Andrei Halanay">
 
   
-  <meta name="description" content="Tangentă și Normală
-">
+  <meta name="description" content="Probleme 3 Calculați curbura într-un punct regulat $t$ pentru următoarele curbe : Elipsă - $c:(0,2\pi) \to \mathbb{R}^2$, cu $c(t)=\left(a \cdot cos &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -19,7 +18,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   
-  <link rel="canonical" href="http://adhalanay.github.io/blog/2014/10/09/probleme-1">
+  <link rel="canonical" href="http://adhalanay.github.io/curbe-si-suprafete/probleme3.html">
   <link href="/favicon.png" rel="icon">
   <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
   <link href="/atom.xml" rel="alternate" title="My Octopress Blog" type="application/atom+xml">
@@ -96,71 +95,83 @@
   <div id="main">
     <div id="content">
       <div>
-<article class="hentry" role="article">
+<article role="article">
   
   <header>
-    
-      <h1 class="entry-title">Noua Temă Pentru Anul II</h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-<time class='entry-date' datetime='2014-10-09T01:02:55+03:00'><span class='date'><span class='date-month'>Oct</span> <span class='date-day'>9</span><span class='date-suffix'>th</span>, <span class='date-year'>2014</span></span> <span class='time'>1:02 am</span></time>
-        
-           | <a href="#disqus_thread"
-             data-disqus-identifier="http://adhalanay.github.io">Comments</a>
-        
-      </p>
+    <h1 class="entry-title">Probleme 3</h1>
     
   </header>
-
-
-<div class="entry-content"><p><a href="/curbe-si-suprafete/probleme1.html">Tangentă și Normală</a></p>
-</div>
-
-
-  <footer>
-    <p class="meta">
-      
   
+  <ol>
+  <li>
+    <p>Calculați curbura într-un punct regulat $t$ pentru următoarele curbe :</p>
 
-<span class="byline author vcard">Posted by <span class="fn">Andrei Halanay</span></span>
+    <ol>
+      <li>
+        <p>Elipsă - $c:(0,2\pi) \to \mathbb{R}^2$, cu $c(t)=\left(a \cdot cos(t), b \cdot sin(t)\right)$;</p>
+      </li>
+      <li>
+        <p>Hiperbolă - $c: \mathbb{R} \to \mathbb{R}^2$, $c(t)=\left(a \cdot ch(t),b \cdot sh(t) \right)$;</p>
+      </li>
+      <li>
+        <p>Parabolă - $c: \mathbb{R} \to \mathbb{R}^2$, $c(t)=\left(2pt^2,t\right)$;</p>
+      </li>
+      <li>
+        <p>Spirala lui Arhimede - $c: \mathbb{R} \to \mathbb{R}^2$, $c(t)=\left( t\cdot cos(t), t\cdot sin(t) \right)$;</p>
+      </li>
+      <li>
+        <p>Spirala logaritmică - $c: \mathbb{R} \to \mathbb{R}^2$, $c(t)=\left( e^t \cdot cos(t), e^t\cdot sin(t) \right)$;</p>
+      </li>
+      <li>
+        <p>Cicloidă - $c:(0,2\pi) \to \mathbb{R}^2$,
+$c(t)=\left(r\cdot(t-sin(t)),r\cdot(1-cos(t))\right)$;</p>
+      </li>
+      <li>
+        <p>Hipocicloidă- $c(t)=\left(\left(R-r\right)\cdot cos(t)+r \cdot cos\left(\frac{R-r}{r}t\right),\left(R-r\right)\cdot sin(t)-r \cdot sin\left(\frac{R-r}{r}t\right)\right)$;</p>
+      </li>
+      <li>
+        <p>Epicicloidă- $c(t)=\left(\left(R+r\right)\cdot cos(t)-r \cdot cos\left(\frac{R+r}{r}t\right),\left(R+r\right)\cdot sin(t)-r \cdot sin\left(\frac{R+r}{r}t\right)\right)$; la acest
+punct și la precedentul determinați și intervalul de definiție al curbei.</p>
+      </li>
+    </ol>
+  </li>
+  <li>
+    <p>Arătați că dacă toate normalele la o curbă plană trec printr-un punct fix, atunci
+curba este conținută într-un cerc.</p>
+  </li>
+  <li>
+    <p>Arătați că dacă toate dreptele tangente la o curbă plană trec printr-un fix,
+atunci curba este un segment de dreaptă.</p>
+  </li>
+  <li>
+    <p>Fie <script type="math/tex">c:I \to \mathbb{R}^2</script> o curbă regulată cu a cărei curbură nu se
+anulează în nici un punct. Fie curba </p>
 
-      
+    <script type="math/tex; mode=display">r(t) = c(t)+\frac{1}{k(t)}e_2(t), </script>
+
+    <p>numită evoluta lui <script type="math/tex">c</script> <a href="https://cloud.sagemath.com/projects/fa55f670-c7ef-4d2c-9837-23815cc6fb57/files/2013-11-06-211526.sagews">Niște exemple aici</a>.</p>
+
+    <ol>
+      <li>
+        <p>Arătați că tangenta la evolută în <script type="math/tex">t</script> este normala lui <script type="math/tex">c</script> în
+  <script type="math/tex">t</script>.</p>
+      </li>
+      <li>
+        <p>Fie două puncte <script type="math/tex">t_1,t_2 \in I</script>. Arătați că atunci cînd $t_1$ se
+  apropie de 	 $t_2$, punctul de intersecție al normalelor tinde la un
+  punct de pe curbă.</p>
+      </li>
+    </ol>
+  </li>
+</ol>
 
 
-
-
-<time class='entry-date' datetime='2014-10-09T01:02:55+03:00'><span class='date'><span class='date-month'>Oct</span> <span class='date-day'>9</span><span class='date-suffix'>th</span>, <span class='date-year'>2014</span></span> <span class='time'>1:02 am</span></time>
-      
-
-<span class="categories">
   
-    <a class='category' href='/blog/categories/teme/'>teme</a>
-  
-</span>
-
-
-    </p>
-    
-      <div class="sharing">
-  
-  
-  
-</div>
-
-    
-    <p class="meta">
+    <footer>
       
       
-        <a class="basic-alignment right" href="/blog/2014/10/16/probleme2/" title="Next Post: Reperul Frenet I">Reperul Frenet I &raquo;</a>
-      
-    </p>
-  </footer>
+    </footer>
+  
 </article>
 
   <section>
@@ -219,8 +230,8 @@
       
         
         // var disqus_developer = 1;
-        var disqus_identifier = 'http://adhalanay.github.io/blog/2014/10/09/probleme-1/';
-        var disqus_url = 'http://adhalanay.github.io/blog/2014/10/09/probleme-1/';
+        var disqus_identifier = 'http://adhalanay.github.io/curbe-si-suprafete/probleme3.html';
+        var disqus_url = 'http://adhalanay.github.io/curbe-si-suprafete/probleme3.html';
         var disqus_script = 'embed.js';
       
     (function () {

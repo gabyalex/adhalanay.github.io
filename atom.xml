@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://adhalanay.github.io/atom.xml" rel="self"/>
   <link href="http://adhalanay.github.io/"/>
-  <updated>2014-10-17T20:12:09+03:00</updated>
+  <updated>2014-10-22T23:16:59+03:00</updated>
   <id>http://adhalanay.github.io/</id>
   <author>
     <name><![CDATA[Andrei Halanay]]></name>
@@ -12,6 +12,16 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Curbura]]></title>
+    <link href="http://adhalanay.github.io/blog/2014/10/22/tema3/"/>
+    <updated>2014-10-22T23:14:56+03:00</updated>
+    <id>http://adhalanay.github.io/blog/2014/10/22/tema3</id>
+    <content type="html"><![CDATA[<p><a href="http://adhalanay.github.io/curbe-si-suprafete/probleme3.html">Curbura curbelor plane</a></p>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Tema 1]]></title>
