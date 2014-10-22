@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Anul-i | My Octopress Blog]]></title>
+  <link href="http://adhalanay.github.io/blog/categories/anul-i/atom.xml" rel="self"/>
+  <link href="http://adhalanay.github.io/"/>
+  <updated>2014-10-23T01:21:59+03:00</updated>
+  <id>http://adhalanay.github.io/</id>
+  <author>
+    <name><![CDATA[Andrei Halanay]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Tema 1]]></title>
+    <link href="http://adhalanay.github.io/blog/2014/10/17/tema1/"/>
+    <updated>2014-10-17T20:07:44+03:00</updated>
+    <id>http://adhalanay.github.io/blog/2014/10/17/tema1</id>
+    <content type="html"><![CDATA[<h2 id="exemple-de-spaii-vectoriale-i-altele">Exemple de spații vectoriale și altele:</h2>
+
+<p><a href="/geometrie-i/probleme1.html">Tema 1</a></p>
+]]></content>
+  </entry>
+  
+</feed>
