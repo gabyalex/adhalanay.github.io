@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Anul-i | My Octopress Blog]]></title>
   <link href="http://adhalanay.github.io/blog/categories/anul-i/atom.xml" rel="self"/>
   <link href="http://adhalanay.github.io/"/>
-  <updated>2014-10-23T01:27:32+03:00</updated>
+  <updated>2014-10-24T18:16:40+03:00</updated>
   <id>http://adhalanay.github.io/</id>
   <author>
     <name><![CDATA[Andrei Halanay]]></name>
@@ -12,6 +12,16 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Tema 2 Pentru Anul I]]></title>
+    <link href="http://adhalanay.github.io/blog/2014/10/24/tema-2/"/>
+    <updated>2014-10-24T18:10:23+03:00</updated>
+    <id>http://adhalanay.github.io/blog/2014/10/24/tema-2</id>
+    <content type="html"><![CDATA[<p><a href="/geometrie-i/probleme2.html">Spații și subspații</a></p>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Tema 1]]></title>
