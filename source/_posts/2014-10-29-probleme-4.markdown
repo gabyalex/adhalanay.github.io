@@ -1,0 +1,9 @@
+---
+layout: post
+title: "Curbe strîmbe"
+date: 2014-10-29 21:17:36 +0200
+comments: true
+categories: [Teme, Anul-II]
+---
+
+[Curbe strîmbe](/curbe-si-suprafete/probleme4.html)

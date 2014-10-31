@@ -1,0 +1,9 @@
+---
+layout: post
+title: "Noua temă pentru anul II"
+date: 2014-10-09 01:02:55 +0300
+comments: true
+categories: [Teme, Anul-II]
+---
+
+[Tangentă și Normală](/curbe-si-suprafete/probleme1.html)

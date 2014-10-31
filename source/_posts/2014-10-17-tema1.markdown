@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Tema 1"
+date: 2014-10-17 20:07:44 +0300
+comments: true
+categories: [Teme, Anul-I]
+---
+
+
+Exemple de spații vectoriale și altele:
+---------------------------------------
+
+[Tema 1](/geometrie-i/probleme1.html)

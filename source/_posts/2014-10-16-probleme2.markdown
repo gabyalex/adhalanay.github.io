@@ -1,0 +1,9 @@
+---
+layout: post
+title: "Reperul Frenet I"
+date: 2014-10-16 17:33:08 +0300
+comments: true
+categories: [Anul-II, Teme ]
+---
+
+[Reperul Frenet pentru curbe plane](/curbe-si-suprafete/probleme2.html)
