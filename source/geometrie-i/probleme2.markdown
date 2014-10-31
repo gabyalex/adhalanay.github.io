@@ -16,7 +16,7 @@ footer: true
    coloanelor este egală cu cea a acoperirii liniare a liniilor și este egală cu
    rangul lui $$A$$.
 
-3. Completați mulțimea $$ \{X^4+X^4, X^5-3X^3,X^5+2X^2,X^5-X\}$$ la o bază a
+3. Completați mulțimea $$ \{X^5+X^4, X^5-3X^3,X^5+2X^2,X^5-X\}$$ la o bază a
    spațiului polinoamelor cu coeficienți reali de grad cel mult $$5$$.
 
 4. Găsiți cîte o bază în suma și intersecția subspațiilor generate de
