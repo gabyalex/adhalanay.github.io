@@ -10,3 +10,5 @@ footer: true
 [Tema 1](/geometrie-i/probleme1.html)
 
 [Tema 2](/geometrie-i/probleme2.html)
+
+[Tema 3](/geometrie-i/probleme3.html)
