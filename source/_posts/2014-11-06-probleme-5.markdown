@@ -1,0 +1,9 @@
+---
+layout: post
+title: "Curbe strîmbe și teorema celor patru vîrfuri"
+date: 2014-11-06 11:57:11 +0200
+comments: true
+categories: [Teme, Anul-II] 
+---
+
+[Curbe strîmbe și teorema celor patru vîrfuri](/curbe-si-suprafete/probleme5.html)

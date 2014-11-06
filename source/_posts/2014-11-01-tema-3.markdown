@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Tema 3"
+date: 2014-11-01 11:14:30 +0200
+comments: true
+categories: [Teme, Anul-I]
+---
+
+[Aplicații liniare](/geometrie-i/probleme3.html)
+------------------------------------------------
