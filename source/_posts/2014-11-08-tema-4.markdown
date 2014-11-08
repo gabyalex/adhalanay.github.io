@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Tema 4"
+date: 2014-11-08 19:04:59 +0200
+comments: true
+categories: [Teme, Anul-I]
+---
+
+[Nucleu și imagine. Matrice](/geometrie-i/probleme4.html)
+----------------------------------------------------------
