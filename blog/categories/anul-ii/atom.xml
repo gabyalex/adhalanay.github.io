@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Anul-ii | My Octopress Blog]]></title>
+  <link href="http://adhalanay.github.io/blog/categories/anul-ii/atom.xml" rel="self"/>
+  <link href="http://adhalanay.github.io/"/>
+  <updated>2014-11-06T11:59:10+02:00</updated>
+  <id>http://adhalanay.github.io/</id>
+  <author>
+    <name><![CDATA[Andrei Halanay]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Curbe Strîmbe și Teorema Celor Patru Vîrfuri]]></title>
+    <link href="http://adhalanay.github.io/blog/2014/11/06/probleme-5/"/>
+    <updated>2014-11-06T11:57:11+02:00</updated>
+    <id>http://adhalanay.github.io/blog/2014/11/06/probleme-5</id>
+    <content type="html"><![CDATA[<p><a href="/curbe-si-suprafete/probleme5.html">Curbe strîmbe și teorema celor patru vîrfuri</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Curbe Strîmbe]]></title>
+    <link href="http://adhalanay.github.io/blog/2014/10/29/probleme-4/"/>
+    <updated>2014-10-29T21:17:36+02:00</updated>
+    <id>http://adhalanay.github.io/blog/2014/10/29/probleme-4</id>
+    <content type="html"><![CDATA[<p><a href="/curbe-si-suprafete/probleme4.html">Curbe strîmbe</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Curbura]]></title>
+    <link href="http://adhalanay.github.io/blog/2014/10/22/tema3/"/>
+    <updated>2014-10-22T23:14:56+03:00</updated>
+    <id>http://adhalanay.github.io/blog/2014/10/22/tema3</id>
+    <content type="html"><![CDATA[<p><a href="/curbe-si-suprafete/probleme3.html">Curbura curbelor plane</a></p>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Reperul Frenet I]]></title>
+    <link href="http://adhalanay.github.io/blog/2014/10/16/probleme2/"/>
+    <updated>2014-10-16T17:33:08+03:00</updated>
+    <id>http://adhalanay.github.io/blog/2014/10/16/probleme2</id>
+    <content type="html"><![CDATA[<p><a href="/curbe-si-suprafete/probleme2.html">Reperul Frenet pentru curbe plane</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Noua Temă Pentru Anul II]]></title>
+    <link href="http://adhalanay.github.io/blog/2014/10/09/probleme-1/"/>
+    <updated>2014-10-09T01:02:55+03:00</updated>
+    <id>http://adhalanay.github.io/blog/2014/10/09/probleme-1</id>
+    <content type="html"><![CDATA[<p><a href="/curbe-si-suprafete/probleme1.html">Tangentă și Normală</a></p>
+]]></content>
+  </entry>
+  
+</feed>

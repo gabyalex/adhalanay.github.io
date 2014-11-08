@@ -1,0 +1,240 @@
+
+<!DOCTYPE html>
+<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
+<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <title>Tema 1 - My Octopress Blog</title>
+  <meta name="author" content="Andrei Halanay">
+
+  
+  <meta name="description" content="Tema 1 Să se determine o bază în spațiul soluțiilor sistemului Fie un corp, și . Arătați că și sînt
+subspații vectoriale ale lui $V$ și determinați &hellip;">
+  
+
+  <!-- http://t.co/dKP3o1e -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+  <link rel="canonical" href="http://adhalanay.github.io/geometrie-i/probleme1.html">
+  <link href="/favicon.png" rel="icon">
+  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+  <link href="/atom.xml" rel="alternate" title="My Octopress Blog" type="application/atom+xml">
+  <script src="/javascripts/modernizr-2.0.js"></script>
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+  <script>!window.jQuery && document.write(unescape('%3Cscript src="./javascripts/libs/jquery.min.js"%3E%3C/script%3E'))</script>
+  <script src="/javascripts/octopress.js" type="text/javascript"></script>
+  <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
+<link href="//fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+<link href="//fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+
+  
+  <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-55272469-1']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+
+
+</head>
+
+<body   >
+  <header role="banner"><hgroup>
+  <h1><a href="/">My Octopress Blog</a></h1>
+  
+    <h2>A blogging framework for hackers.</h2>
+  
+</hgroup>
+<script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+      jax: ["input/TeX", "output/HTML-CSS"],
+      tex2jax: {
+        inlineMath: [ ['$', '$'], ["\\(", "\\)"] ],
+        displayMath: [ ['$$', '$$'], ["\\[", "\\]"] ],
+        processEscapes: true,
+        skipTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code']
+      }
+      //,
+      //displayAlign: "left",
+      //displayIndent: "2em"
+    });
+</script>
+<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML" type="text/javascript"></script>
+
+
+</header>
+  <nav role="navigation"><ul class="subscription" data-subscription="rss">
+  <li><a href="/atom.xml" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
+  
+</ul>
+  
+<form action="https://www.google.com/search" method="get">
+  <fieldset role="search">
+    <input type="hidden" name="q" value="site:adhalanay.github.io" />
+    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
+  </fieldset>
+</form>
+  
+<ul class="main-navigation">
+  <li><a href="/">Blog</a></li>
+  <li><a href="/blog/archives">Arhivă</a></li>
+  <li><a href="/blog/categories">Categorii</a></li>
+  <li><a href="/curbe-si-suprafete">Curbe și Suprafețe</a></li>
+  <li><a href="/geometrie-i">Geometrie I</a></li>
+</ul>
+
+</nav>
+  <div id="main">
+    <div id="content">
+      <div>
+<article role="article">
+  
+  <header>
+    <h1 class="entry-title">Tema 1</h1>
+    
+  </header>
+  
+  <ol>
+  <li>
+    <p>Să se determine o bază în spațiul soluțiilor sistemului
+<script type="math/tex">
+\left\{ \begin{array}{ll} 2x + 3y-2z+3t=0 \\
+                       x+y-z+t=0. \\
+\end{array} \right.
+</script></p>
+  </li>
+  <li>
+    <p>Fie <script type="math/tex">K</script> un corp, <script type="math/tex">n >1</script> și <script type="math/tex">V=M_n(K)</script>.</p>
+
+    <ol>
+      <li>
+        <p>Arătați că <script type="math/tex">V_1 = \{ A \in V | A=A^t \}</script> și <script type="math/tex">V_2 = \{ A \in V | A = -A^t \}</script> sînt
+subspații vectoriale ale lui $V$ și determinați dimensiunile lor.</p>
+      </li>
+      <li>
+        <p>Arătați că <script type="math/tex">V_1 = \{A \in V | Tr(A)=0\}</script> și <script type="math/tex">V_2=\{A \in V | \exists \lambda
+\in K \text{ astfel încît } A=\lambda I_n \}</script> sînt
+subspații vectoriale ale lui $V$ și determinați dimensiunile lor.
+Arătați că în cazurile a. și b., orice matrice <script type="math/tex">A \in V</script> se poate scrie în mod
+unic ca <script type="math/tex">A=A_1+A_2</script> cu <script type="math/tex">A_i \in V_i</script>.</p>
+      </li>
+    </ol>
+  </li>
+  <li>
+    <p>Fie <script type="math/tex">F</script> un corp finit. Arătați că numărul de elemente ale lui <script type="math/tex">F</script> este de
+forma <script type="math/tex">p^n</script>, unde <script type="math/tex">p</script> este un număr prim.(Indicație: arătați mai întîi că
+<script type="math/tex">F</script> conține un subcorp cu <script type="math/tex">p</script> elemente).</p>
+  </li>
+  <li>
+    <p>Fie <script type="math/tex">K</script> un corp și <script type="math/tex">V=\{P(X) \in K[X] | deg(P(X)) \leq n\}</script>. Arătați că
+<script type="math/tex">\{1,1-X,1-X^2,\dots,1-X^n\}</script> este bază în <script type="math/tex">V</script> și determinați matricea de
+trecere la baza canonică.</p>
+  </li>
+  <li>
+    <p>Fie <script type="math/tex">V</script> un spațiu vectorial peste un corp <script type="math/tex">K</script>. Fie <script type="math/tex">V^*</script> mulțimea
+funcților <script type="math/tex">f:V \to K</script>, care satisfac <script type="math/tex">f(ax+by)=af(x)+bf(y)</script> pentru orice
+<script type="math/tex">a,b \in K</script> și orice <script type="math/tex">x,y \in V</script>. Demonstrați că <script type="math/tex">V^*</script> este spațiu
+vectorial și găsiți dimensiunea sa.</p>
+  </li>
+</ol>
+
+  
+    <footer>
+      
+      
+    </footer>
+  
+</article>
+
+  <section>
+    <h1>Comments</h1>
+    <div id="disqus_thread" aria-live="polite"><noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+</div>
+  </section>
+
+</div>
+
+<aside class="sidebar">
+  
+    <section>
+  <h1>Recent Posts</h1>
+  <ul id="recent_posts">
+    
+      <li class="post">
+        <a href="/blog/2014/11/06/probleme-5/">Curbe Strîmbe și Teorema Celor Patru Vîrfuri</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2014/11/01/tema-3/">Tema 3</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2014/10/29/probleme-4/">Curbe Strîmbe</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2014/10/24/tema-2/">Tema 2 Pentru Anul I</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2014/10/22/tema3/">Curbura</a>
+      </li>
+    
+  </ul>
+</section>
+
+
+
+
+
+  
+</aside>
+
+
+    </div>
+  </div>
+  <footer role="contentinfo"><p>
+  Copyright &copy; 2014 - Andrei Halanay -
+  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
+</p>
+
+</footer>
+  
+
+<script type="text/javascript">
+      var disqus_shortname = 'adhalanay';
+      
+        
+        // var disqus_developer = 1;
+        var disqus_identifier = 'http://adhalanay.github.io/geometrie-i/probleme1.html';
+        var disqus_url = 'http://adhalanay.github.io/geometrie-i/probleme1.html';
+        var disqus_script = 'embed.js';
+      
+    (function () {
+      var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+      dsq.src = '//' + disqus_shortname + '.disqus.com/' + disqus_script;
+      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    }());
+</script>
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>

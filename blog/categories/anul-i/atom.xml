@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Anul-i | My Octopress Blog]]></title>
+  <link href="http://adhalanay.github.io/blog/categories/anul-i/atom.xml" rel="self"/>
+  <link href="http://adhalanay.github.io/"/>
+  <updated>2014-11-06T11:59:10+02:00</updated>
+  <id>http://adhalanay.github.io/</id>
+  <author>
+    <name><![CDATA[Andrei Halanay]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Tema 3]]></title>
+    <link href="http://adhalanay.github.io/blog/2014/11/01/tema-3/"/>
+    <updated>2014-11-01T11:14:30+02:00</updated>
+    <id>http://adhalanay.github.io/blog/2014/11/01/tema-3</id>
+    <content type="html"><![CDATA[<h2 id="aplicaii-liniaregeometrie-iprobleme3html"><a href="/geometrie-i/probleme3.html">Aplicații liniare</a></h2>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Tema 2 Pentru Anul I]]></title>
+    <link href="http://adhalanay.github.io/blog/2014/10/24/tema-2/"/>
+    <updated>2014-10-24T18:10:23+03:00</updated>
+    <id>http://adhalanay.github.io/blog/2014/10/24/tema-2</id>
+    <content type="html"><![CDATA[<p><a href="/geometrie-i/probleme2.html">Spații și subspații</a></p>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Tema 1]]></title>
+    <link href="http://adhalanay.github.io/blog/2014/10/17/tema1/"/>
+    <updated>2014-10-17T20:07:44+03:00</updated>
+    <id>http://adhalanay.github.io/blog/2014/10/17/tema1</id>
+    <content type="html"><![CDATA[<h2 id="exemple-de-spaii-vectoriale-i-altele">Exemple de spații vectoriale și altele:</h2>
+
+<p><a href="/geometrie-i/probleme1.html">Tema 1</a></p>
+]]></content>
+  </entry>
+  
+</feed>

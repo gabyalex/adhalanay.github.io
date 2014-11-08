@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://adhalanay.github.io/sitemap.xml 
