@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Probleme 6"
+date: 2014-11-13 16:53:12 +0200
+comments: true
+categories: [Teme,Anul-II ] 
+---
+
+[Exemple de suprafete](/curbe-si-suprafete/probleme6.html)
+---------------------------------------------------------
