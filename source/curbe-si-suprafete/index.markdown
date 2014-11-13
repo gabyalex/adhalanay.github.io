@@ -24,3 +24,6 @@ footer: true
 
 [Probleme 5](/curbe-si-suprafete/probleme5.html)
 ------------------------------------------------
+
+[Probleme 6](/curbe-si-suprafete/probleme6.html)
+------------------------------------------------
