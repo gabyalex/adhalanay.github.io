@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Probleme 7"
+date: 2014-11-20 11:57:13 +0200
+comments: true
+categories: [Teme,Anul-II ] 
+---
+
+[Planul tangent și aplicația Gauss](/curbe-si-suprafete/probleme7.html)
+----------------------------------------------------------------------
