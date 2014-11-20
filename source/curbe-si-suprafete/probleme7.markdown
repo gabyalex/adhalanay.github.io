@@ -1,27 +1,39 @@
 ---
 layout: page
-title: "Probleme 6"
+title: "Probleme 7"
 comments: true
 sharing: false
 categories: [Teme,Anul-II ]
 footer: true
 ---
 
-Arătați că următoarele sînt suprafețe regulate și găsiți domeniul maxim de
-definiție:
+1. Determinați planul tangent și aplicația Gauss pentru:
 
-1. $$r(s,t)=(\rho(s) +\nu(s) \cos t +\beta(s) \sin t)$$ - suprafață canal.
+    1. $$r(s,t)=(\rho(s) +\nu(s) \cos t +\beta(s) \sin t)$$ - suprafață canal.
 
-2. $$r(s,t)=(\phi(s) \cos t, \phi(s) \sin t, \psi(s))$$ - suprafață de rotație.
+    2. $$r(s,t)=(\phi(s) \cos t, \phi(s) \sin t, \psi(s))$$ - suprafață de rotație.
 
-3. $$r(s,t)=(s \cos t,s \sin t,kt)$$ - elicoid minimal.
+    3. $$r(s,t)=(s \cos t,s \sin t,kt)$$ - elicoid minimal.
 
-4. $$r(s,t)=c(s)+t\overrightarrow{t}(s)$$ - suprafață de tangente.
+    7. $$r(u,v)=(R \cos u \cos v, R \sin u \cos v, R\cos v)$$ - sfera de rază
+       $$R$$
 
-5. $$r(s,t)=c(s)+t\overrightarrow{n}(s)$$ - suprafață de normale.
+    8. $$r(u,v)=(av\cos u, bv\sin u,cv)$$ - con
 
-6. $$r(s,t)=c(s)+t\overrightarrow{b}(s)$$ - suprafață de binormale.
+2. Fie $$f:\mathbb{R}^3 \to \mathbb{R}$$ of funcție de clasă $C^\infty$ și $$a
+   \in \mathbb{R}$$ o valoare regulată a sa.
 
-În problemele de mai sus $$c$$ este o curbă regulată, canonic parametrizată, iar
-$$\{\overrightarrow{t},\overrightarrow{n},\overrightarrow{b}\}$$ reperul său
-Frenet.
+    1. Arătați că $$f^{-1}(a)$$ este o suprafață regulată (adică orice punct $$x
+       \in f^{-1}(a)$$ admite o vecinătate care este imaginea unei paramatrizări
+       regulate;
+
+    2. Determinați planul tangent și aplicația Gauss în funcție de $$f$$.
+
+3. Determinați imaginea aplicației Gauss pentru:
+    
+    1. Elicoidul minimal;
+
+    2. Catenoid: $$r(u,v)=\left( a \text{cosh}\frac{u}{a}\cos v,
+       a\text{cosh}\frac{u}{a}\sin v, u\right)$$;
+
+    3. Hiperboloidul cu o pînză.
