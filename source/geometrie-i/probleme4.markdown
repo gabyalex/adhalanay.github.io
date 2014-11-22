@@ -10,7 +10,7 @@ footer: true
 1. Arătați că suma directă a sub-spațiilor vectoriale $$L_1$$ și $$L_2$$,
    generate de $$x_1=(2,3,11,5)$$,$$x_2=(1,1,5,2)$$, $$x_3=(0,1,1,1)$$, respectiv
    de $$y_1=(2,1,3,2)$$, $$y_2=(1,1,3,4)$$,$$y_3=(5,2,6,2)$$ este $$\mathbb{R}^4$$.
-   Determinați matricea proiecției pe $$L_2$ în raport cu o bază adapatată
+   Determinați matricea proiecției pe $$L_2$$ în raport cu o bază adaptată
    descompunerii.
 
 2. Fie $$V_1,V_2,V_3$$ trei spații vectoriale,
@@ -35,4 +35,3 @@ footer: true
 5. Ce se întîmplă cu matricea unui endomorfism dacă elementele bazei sînt
    permutate între ele?
 
-6. 
