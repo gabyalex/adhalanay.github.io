@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Tema 5"
+date: 2014-11-22 10:07:12 +0200
+comments: true
+categories: [Teme, Anul-I]
+---
+
+[Vectori și valori proprii](/geometrie-i/probleme5.html)
+----------------------------------------------------------
