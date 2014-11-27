@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Teme | My Octopress Blog]]></title>
   <link href="http://adhalanay.github.io/blog/categories/teme/atom.xml" rel="self"/>
   <link href="http://adhalanay.github.io/"/>
-  <updated>2014-11-22T10:08:42+02:00</updated>
+  <updated>2014-11-27T18:09:22+02:00</updated>
   <id>http://adhalanay.github.io/</id>
   <author>
     <name><![CDATA[Andrei Halanay]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Probleme 8]]></title>
+    <link href="http://adhalanay.github.io/blog/2014/11/27/probleme-8/"/>
+    <updated>2014-11-27T18:06:24+02:00</updated>
+    <id>http://adhalanay.github.io/blog/2014/11/27/probleme-8</id>
+    <content type="html"><![CDATA[<h2 id="prima-form-fundamentalcurbe-si-suprafeteprobleme8html"><a href="/curbe-si-suprafete/probleme8.html">Prima formă fundamentală</a></h2>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Tema 5]]></title>
@@ -46,15 +55,6 @@
     <updated>2014-11-08T19:04:59+02:00</updated>
     <id>http://adhalanay.github.io/blog/2014/11/08/tema-4</id>
     <content type="html"><![CDATA[<h2 id="nucleu-i-imagine-matricegeometrie-iprobleme4html"><a href="/geometrie-i/probleme4.html">Nucleu și imagine. Matrice</a></h2>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Curbe Strîmbe și Teorema Celor Patru Vîrfuri]]></title>
-    <link href="http://adhalanay.github.io/blog/2014/11/06/probleme-5/"/>
-    <updated>2014-11-06T11:57:11+02:00</updated>
-    <id>http://adhalanay.github.io/blog/2014/11/06/probleme-5</id>
-    <content type="html"><![CDATA[<p><a href="/curbe-si-suprafete/probleme5.html">Curbe strîmbe și teorema celor patru vîrfuri</a></p>
 ]]></content>
   </entry>
   

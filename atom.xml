@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://adhalanay.github.io/atom.xml" rel="self"/>
   <link href="http://adhalanay.github.io/"/>
-  <updated>2014-11-22T10:08:42+02:00</updated>
+  <updated>2014-11-27T18:09:22+02:00</updated>
   <id>http://adhalanay.github.io/</id>
   <author>
     <name><![CDATA[Andrei Halanay]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Probleme 8]]></title>
+    <link href="http://adhalanay.github.io/blog/2014/11/27/probleme-8/"/>
+    <updated>2014-11-27T18:06:24+02:00</updated>
+    <id>http://adhalanay.github.io/blog/2014/11/27/probleme-8</id>
+    <content type="html"><![CDATA[<h2 id="prima-form-fundamentalcurbe-si-suprafeteprobleme8html"><a href="http://adhalanay.github.io/curbe-si-suprafete/probleme8.html">Prima formă fundamentală</a></h2>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Tema 5]]></title>
