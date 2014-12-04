@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Teme | My Octopress Blog]]></title>
   <link href="http://adhalanay.github.io/blog/categories/teme/atom.xml" rel="self"/>
   <link href="http://adhalanay.github.io/"/>
-  <updated>2014-11-27T18:09:22+02:00</updated>
+  <updated>2014-12-04T15:14:23+02:00</updated>
   <id>http://adhalanay.github.io/</id>
   <author>
     <name><![CDATA[Andrei Halanay]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Probleme 9]]></title>
+    <link href="http://adhalanay.github.io/blog/2014/12/04/probleme-9/"/>
+    <updated>2014-12-04T15:13:11+02:00</updated>
+    <id>http://adhalanay.github.io/blog/2014/12/04/probleme-9</id>
+    <content type="html"><![CDATA[<h2 id="a-doua-fundamentalcurbe-si-suprafeteprobleme9html"><a href="/curbe-si-suprafete/probleme9.html">A doua fundamentală</a></h2>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Probleme 8]]></title>
@@ -46,15 +55,6 @@
     <updated>2014-11-13T16:53:12+02:00</updated>
     <id>http://adhalanay.github.io/blog/2014/11/13/probleme-6</id>
     <content type="html"><![CDATA[<h2 id="exemple-de-suprafetecurbe-si-suprafeteprobleme6html"><a href="/curbe-si-suprafete/probleme6.html">Exemple de suprafete</a></h2>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Tema 4]]></title>
-    <link href="http://adhalanay.github.io/blog/2014/11/08/tema-4/"/>
-    <updated>2014-11-08T19:04:59+02:00</updated>
-    <id>http://adhalanay.github.io/blog/2014/11/08/tema-4</id>
-    <content type="html"><![CDATA[<h2 id="nucleu-i-imagine-matricegeometrie-iprobleme4html"><a href="/geometrie-i/probleme4.html">Nucleu și imagine. Matrice</a></h2>
 ]]></content>
   </entry>
   

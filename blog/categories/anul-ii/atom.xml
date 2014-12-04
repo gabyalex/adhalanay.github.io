@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Anul-ii | My Octopress Blog]]></title>
   <link href="http://adhalanay.github.io/blog/categories/anul-ii/atom.xml" rel="self"/>
   <link href="http://adhalanay.github.io/"/>
-  <updated>2014-11-27T18:09:22+02:00</updated>
+  <updated>2014-12-04T15:14:23+02:00</updated>
   <id>http://adhalanay.github.io/</id>
   <author>
     <name><![CDATA[Andrei Halanay]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Probleme 9]]></title>
+    <link href="http://adhalanay.github.io/blog/2014/12/04/probleme-9/"/>
+    <updated>2014-12-04T15:13:11+02:00</updated>
+    <id>http://adhalanay.github.io/blog/2014/12/04/probleme-9</id>
+    <content type="html"><![CDATA[<h2 id="a-doua-fundamentalcurbe-si-suprafeteprobleme9html"><a href="/curbe-si-suprafete/probleme9.html">A doua fundamentală</a></h2>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Probleme 8]]></title>
@@ -46,15 +55,6 @@
     <updated>2014-11-06T11:57:11+02:00</updated>
     <id>http://adhalanay.github.io/blog/2014/11/06/probleme-5</id>
     <content type="html"><![CDATA[<p><a href="/curbe-si-suprafete/probleme5.html">Curbe strîmbe și teorema celor patru vîrfuri</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Curbe Strîmbe]]></title>
-    <link href="http://adhalanay.github.io/blog/2014/10/29/probleme-4/"/>
-    <updated>2014-10-29T21:17:36+02:00</updated>
-    <id>http://adhalanay.github.io/blog/2014/10/29/probleme-4</id>
-    <content type="html"><![CDATA[<p><a href="/curbe-si-suprafete/probleme4.html">Curbe strîmbe</a></p>
 ]]></content>
   </entry>
   
