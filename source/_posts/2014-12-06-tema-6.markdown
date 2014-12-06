@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Tema 6"
+date: 2014-12-06 21:13:23 +0200
+comments: true
+categories: [Teme, Anul-I]
+---
+
+[Spații euclidiene](/geometrie-i/probleme6.html)
+----------------------------------------------------------
