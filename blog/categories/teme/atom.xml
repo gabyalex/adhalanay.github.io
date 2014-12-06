@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Teme | My Octopress Blog]]></title>
   <link href="http://adhalanay.github.io/blog/categories/teme/atom.xml" rel="self"/>
   <link href="http://adhalanay.github.io/"/>
-  <updated>2014-12-04T15:14:23+02:00</updated>
+  <updated>2014-12-06T21:14:34+02:00</updated>
   <id>http://adhalanay.github.io/</id>
   <author>
     <name><![CDATA[Andrei Halanay]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Tema 6]]></title>
+    <link href="http://adhalanay.github.io/blog/2014/12/06/tema-6/"/>
+    <updated>2014-12-06T21:13:23+02:00</updated>
+    <id>http://adhalanay.github.io/blog/2014/12/06/tema-6</id>
+    <content type="html"><![CDATA[<h2 id="spaii-euclidienegeometrie-iprobleme6html"><a href="/geometrie-i/probleme6.html">Spații euclidiene</a></h2>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Probleme 9]]></title>
@@ -46,15 +55,6 @@
     <updated>2014-11-20T11:57:13+02:00</updated>
     <id>http://adhalanay.github.io/blog/2014/11/20/probleme-7</id>
     <content type="html"><![CDATA[<h2 id="planul-tangent-i-aplicaia-gausscurbe-si-suprafeteprobleme7html"><a href="/curbe-si-suprafete/probleme7.html">Planul tangent și aplicația Gauss</a></h2>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Probleme 6]]></title>
-    <link href="http://adhalanay.github.io/blog/2014/11/13/probleme-6/"/>
-    <updated>2014-11-13T16:53:12+02:00</updated>
-    <id>http://adhalanay.github.io/blog/2014/11/13/probleme-6</id>
-    <content type="html"><![CDATA[<h2 id="exemple-de-suprafetecurbe-si-suprafeteprobleme6html"><a href="/curbe-si-suprafete/probleme6.html">Exemple de suprafete</a></h2>
 ]]></content>
   </entry>
   
