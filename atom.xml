@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://adhalanay.github.io/atom.xml" rel="self"/>
   <link href="http://adhalanay.github.io/"/>
-  <updated>2014-12-06T21:14:34+02:00</updated>
+  <updated>2015-01-07T23:03:41+02:00</updated>
   <id>http://adhalanay.github.io/</id>
   <author>
     <name><![CDATA[Andrei Halanay]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Bonus]]></title>
+    <link href="http://adhalanay.github.io/blog/2015/01/07/bonus/"/>
+    <updated>2015-01-07T00:00:00+02:00</updated>
+    <id>http://adhalanay.github.io/blog/2015/01/07/bonus</id>
+    <content type="html"><![CDATA[<h2 id="probleme-bonuscurbe-si-suprafeteprobleme10html"><a href="http://adhalanay.github.io/curbe-si-suprafete/probleme10.html">Probleme Bonus</a></h2>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Tema 6]]></title>
@@ -27,7 +36,7 @@
     <link href="http://adhalanay.github.io/blog/2014/12/04/probleme-9/"/>
     <updated>2014-12-04T15:13:11+02:00</updated>
     <id>http://adhalanay.github.io/blog/2014/12/04/probleme-9</id>
-    <content type="html"><![CDATA[<h2 id="a-doua-fundamentalcurbe-si-suprafeteprobleme9html"><a href="http://adhalanay.github.io/curbe-si-suprafete/probleme9.html">A doua fundamentală</a></h2>
+    <content type="html"><![CDATA[<h2 id="a-doua-form-fundamentalcurbe-si-suprafeteprobleme9html"><a href="http://adhalanay.github.io/curbe-si-suprafete/probleme9.html">A doua formă fundamentală</a></h2>
 ]]></content>
   </entry>
   
