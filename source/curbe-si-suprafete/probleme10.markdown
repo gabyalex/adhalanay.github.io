@@ -24,4 +24,4 @@ footer: true
 5. Fie $$S \subset \mathbb{R}^3$$ o suprafață minimală diferită de un plan.
    Arătați că imaginea aplicației Gauss $$N: S \to S^2$$ este densă pe sferă
    (adică oricît de aproape de orice punct al lui $$S^2$$ se află unul din
-   imagine).
+   imagine). (teorema lui Osserman)

@@ -6,5 +6,5 @@ comments: true
 categories: [Teme,Anul-II ]
 ---
 
-[A doua fundamentală](/curbe-si-suprafete/probleme9.html)
-----------------------------------------------------------------------
+[A doua formă fundamentală](/curbe-si-suprafete/probleme9.html)
+---------------------------------------------------------------
