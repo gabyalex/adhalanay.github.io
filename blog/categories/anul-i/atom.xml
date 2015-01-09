@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Anul-i | My Octopress Blog]]></title>
   <link href="http://adhalanay.github.io/blog/categories/anul-i/atom.xml" rel="self"/>
   <link href="http://adhalanay.github.io/"/>
-  <updated>2015-01-07T23:03:41+02:00</updated>
+  <updated>2015-01-09T22:51:17+02:00</updated>
   <id>http://adhalanay.github.io/</id>
   <author>
     <name><![CDATA[Andrei Halanay]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Bonus Anul I]]></title>
+    <link href="http://adhalanay.github.io/blog/2015/01/09/bonus-anul-i/"/>
+    <updated>2015-01-09T22:45:46+02:00</updated>
+    <id>http://adhalanay.github.io/blog/2015/01/09/bonus-anul-i</id>
+    <content type="html"><![CDATA[<h2 id="tema-bonus-pentru-anul-igeometrie-iprobleme7html"><a href="/geometrie-i/probleme7.html">Tema Bonus pentru anul I</a></h2>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Tema 6]]></title>
@@ -46,16 +55,6 @@
     <updated>2014-11-01T11:14:30+02:00</updated>
     <id>http://adhalanay.github.io/blog/2014/11/01/tema-3</id>
     <content type="html"><![CDATA[<h2 id="aplicaii-liniaregeometrie-iprobleme3html"><a href="/geometrie-i/probleme3.html">Aplicații liniare</a></h2>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Tema 2 Pentru Anul I]]></title>
-    <link href="http://adhalanay.github.io/blog/2014/10/24/tema-2/"/>
-    <updated>2014-10-24T18:10:23+03:00</updated>
-    <id>http://adhalanay.github.io/blog/2014/10/24/tema-2</id>
-    <content type="html"><![CDATA[<p><a href="/geometrie-i/probleme2.html">Spații și subspații</a></p>
-
 ]]></content>
   </entry>
   

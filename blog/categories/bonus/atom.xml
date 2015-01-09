@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Bonus | My Octopress Blog]]></title>
+  <link href="http://adhalanay.github.io/blog/categories/bonus/atom.xml" rel="self"/>
+  <link href="http://adhalanay.github.io/"/>
+  <updated>2015-01-09T22:51:17+02:00</updated>
+  <id>http://adhalanay.github.io/</id>
+  <author>
+    <name><![CDATA[Andrei Halanay]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Bonus Anul I]]></title>
+    <link href="http://adhalanay.github.io/blog/2015/01/09/bonus-anul-i/"/>
+    <updated>2015-01-09T22:45:46+02:00</updated>
+    <id>http://adhalanay.github.io/blog/2015/01/09/bonus-anul-i</id>
+    <content type="html"><![CDATA[<h2 id="tema-bonus-pentru-anul-igeometrie-iprobleme7html"><a href="/geometrie-i/probleme7.html">Tema Bonus pentru anul I</a></h2>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Bonus]]></title>
+    <link href="http://adhalanay.github.io/blog/2015/01/07/bonus/"/>
+    <updated>2015-01-07T22:59:48+02:00</updated>
+    <id>http://adhalanay.github.io/blog/2015/01/07/bonus</id>
+    <content type="html"><![CDATA[<h2 id="probleme-bonuscurbe-si-suprafeteprobleme10html"><a href="/curbe-si-suprafete/probleme10.html">Probleme Bonus</a></h2>
+]]></content>
+  </entry>
+  
+</feed>

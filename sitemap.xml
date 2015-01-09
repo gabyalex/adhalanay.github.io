@@ -3,9 +3,17 @@
   
   
   <url>
+    <loc>http://adhalanay.github.io/blog/2015/01/09/bonus-anul-i/</loc>
+    
+    <lastmod>2015-01-09T22:45:46+02:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
     <loc>http://adhalanay.github.io/blog/2015/01/07/bonus/</loc>
     
-    <lastmod>2015-01-07T00:00:00+02:00</lastmod>
+    <lastmod>2015-01-07T22:59:48+02:00</lastmod>
     
     <priority>0.8</priority>
   </url>
@@ -133,168 +141,175 @@
   
   <url>
     <loc>http://adhalanay.github.io/blog/</loc>
-    <lastmod>2015-01-07T23:03:41+02:00</lastmod>
+    <lastmod>2015-01-09T22:51:17+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://adhalanay.github.io/</loc>
-    <lastmod>2015-01-07T23:03:41+02:00</lastmod>
+    <lastmod>2015-01-09T22:51:17+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   
   <url>
     <loc>http://adhalanay.github.io/blog/archives/</loc>
-    <lastmod>2015-01-07T23:03:41+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  
-  <url>
-    <loc>http://adhalanay.github.io/geometrie-i/</loc>
-    <lastmod>2015-01-07T23:03:41+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  
-  <url>
-    <loc>http://adhalanay.github.io/about/</loc>
-    <lastmod>2015-01-07T23:03:41+02:00</lastmod>
+    <lastmod>2015-01-09T22:51:17+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://adhalanay.github.io/curbe-si-suprafete/</loc>
-    <lastmod>2015-01-07T23:03:41+02:00</lastmod>
+    <lastmod>2015-01-09T22:51:17+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>http://adhalanay.github.io/about/</loc>
+    <lastmod>2015-01-09T22:51:17+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>http://adhalanay.github.io/geometrie-i/</loc>
+    <lastmod>2015-01-09T22:51:17+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://adhalanay.github.io/blog/categories/</loc>
-    <lastmod>2015-01-07T23:03:41+02:00</lastmod>
+    <lastmod>2015-01-09T22:51:17+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://adhalanay.github.io/curbe-si-suprafete/probleme0.html</loc>
-    <lastmod>2015-01-07T23:03:41+02:00</lastmod>
+    <lastmod>2015-01-09T22:51:17+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://adhalanay.github.io/curbe-si-suprafete/probleme1.html</loc>
-    <lastmod>2015-01-07T23:03:41+02:00</lastmod>
+    <lastmod>2015-01-09T22:51:17+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://adhalanay.github.io/geometrie-i/probleme1.html</loc>
-    <lastmod>2015-01-07T23:03:41+02:00</lastmod>
+    <lastmod>2015-01-09T22:51:17+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://adhalanay.github.io/curbe-si-suprafete/probleme10.html</loc>
-    <lastmod>2015-01-07T23:03:41+02:00</lastmod>
+    <lastmod>2015-01-09T22:51:17+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://adhalanay.github.io/geometrie-i/probleme2.html</loc>
-    <lastmod>2015-01-07T23:03:41+02:00</lastmod>
+    <lastmod>2015-01-09T22:51:17+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://adhalanay.github.io/curbe-si-suprafete/probleme2.html</loc>
-    <lastmod>2015-01-07T23:03:41+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  
-  <url>
-    <loc>http://adhalanay.github.io/geometrie-i/probleme3.html</loc>
-    <lastmod>2015-01-07T23:03:41+02:00</lastmod>
+    <lastmod>2015-01-09T22:51:17+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://adhalanay.github.io/curbe-si-suprafete/probleme3.html</loc>
-    <lastmod>2015-01-07T23:03:41+02:00</lastmod>
+    <lastmod>2015-01-09T22:51:17+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
-    <loc>http://adhalanay.github.io/geometrie-i/probleme4.html</loc>
-    <lastmod>2015-01-07T23:03:41+02:00</lastmod>
+    <loc>http://adhalanay.github.io/geometrie-i/probleme3.html</loc>
+    <lastmod>2015-01-09T22:51:17+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://adhalanay.github.io/curbe-si-suprafete/probleme4.html</loc>
-    <lastmod>2015-01-07T23:03:41+02:00</lastmod>
+    <lastmod>2015-01-09T22:51:17+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
-    <loc>http://adhalanay.github.io/geometrie-i/probleme5.html</loc>
-    <lastmod>2015-01-07T23:03:41+02:00</lastmod>
+    <loc>http://adhalanay.github.io/geometrie-i/probleme4.html</loc>
+    <lastmod>2015-01-09T22:51:17+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://adhalanay.github.io/curbe-si-suprafete/probleme5.html</loc>
-    <lastmod>2015-01-07T23:03:41+02:00</lastmod>
+    <lastmod>2015-01-09T22:51:17+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>http://adhalanay.github.io/geometrie-i/probleme5.html</loc>
+    <lastmod>2015-01-09T22:51:17+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://adhalanay.github.io/geometrie-i/probleme6.html</loc>
-    <lastmod>2015-01-07T23:03:41+02:00</lastmod>
+    <lastmod>2015-01-09T22:51:17+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://adhalanay.github.io/curbe-si-suprafete/probleme6.html</loc>
-    <lastmod>2015-01-07T23:03:41+02:00</lastmod>
+    <lastmod>2015-01-09T22:51:17+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>http://adhalanay.github.io/geometrie-i/probleme7.html</loc>
+    <lastmod>2015-01-09T22:51:17+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://adhalanay.github.io/curbe-si-suprafete/probleme7.html</loc>
-    <lastmod>2015-01-07T23:03:41+02:00</lastmod>
+    <lastmod>2015-01-09T22:51:17+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://adhalanay.github.io/curbe-si-suprafete/probleme8.html</loc>
-    <lastmod>2015-01-07T23:03:41+02:00</lastmod>
+    <lastmod>2015-01-09T22:51:17+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://adhalanay.github.io/curbe-si-suprafete/probleme9.html</loc>
-    <lastmod>2015-01-07T23:03:41+02:00</lastmod>
+    <lastmod>2015-01-09T22:51:17+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>

@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Teme | My Octopress Blog]]></title>
   <link href="http://adhalanay.github.io/blog/categories/teme/atom.xml" rel="self"/>
   <link href="http://adhalanay.github.io/"/>
-  <updated>2015-01-07T23:03:41+02:00</updated>
+  <updated>2015-01-09T22:51:17+02:00</updated>
   <id>http://adhalanay.github.io/</id>
   <author>
     <name><![CDATA[Andrei Halanay]]></name>
@@ -12,6 +12,24 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Bonus Anul I]]></title>
+    <link href="http://adhalanay.github.io/blog/2015/01/09/bonus-anul-i/"/>
+    <updated>2015-01-09T22:45:46+02:00</updated>
+    <id>http://adhalanay.github.io/blog/2015/01/09/bonus-anul-i</id>
+    <content type="html"><![CDATA[<h2 id="tema-bonus-pentru-anul-igeometrie-iprobleme7html"><a href="/geometrie-i/probleme7.html">Tema Bonus pentru anul I</a></h2>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Bonus]]></title>
+    <link href="http://adhalanay.github.io/blog/2015/01/07/bonus/"/>
+    <updated>2015-01-07T22:59:48+02:00</updated>
+    <id>http://adhalanay.github.io/blog/2015/01/07/bonus</id>
+    <content type="html"><![CDATA[<h2 id="probleme-bonuscurbe-si-suprafeteprobleme10html"><a href="/curbe-si-suprafete/probleme10.html">Probleme Bonus</a></h2>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Tema 6]]></title>
@@ -37,24 +55,6 @@
     <updated>2014-11-27T18:06:24+02:00</updated>
     <id>http://adhalanay.github.io/blog/2014/11/27/probleme-8</id>
     <content type="html"><![CDATA[<h2 id="prima-form-fundamentalcurbe-si-suprafeteprobleme8html"><a href="/curbe-si-suprafete/probleme8.html">Prima formă fundamentală</a></h2>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Tema 5]]></title>
-    <link href="http://adhalanay.github.io/blog/2014/11/22/tema-5/"/>
-    <updated>2014-11-22T10:07:12+02:00</updated>
-    <id>http://adhalanay.github.io/blog/2014/11/22/tema-5</id>
-    <content type="html"><![CDATA[<h2 id="vectori-i-valori-propriigeometrie-iprobleme5html"><a href="/geometrie-i/probleme5.html">Vectori și valori proprii</a></h2>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Probleme 7]]></title>
-    <link href="http://adhalanay.github.io/blog/2014/11/20/probleme-7/"/>
-    <updated>2014-11-20T11:57:13+02:00</updated>
-    <id>http://adhalanay.github.io/blog/2014/11/20/probleme-7</id>
-    <content type="html"><![CDATA[<h2 id="planul-tangent-i-aplicaia-gausscurbe-si-suprafeteprobleme7html"><a href="/curbe-si-suprafete/probleme7.html">Planul tangent și aplicația Gauss</a></h2>
 ]]></content>
   </entry>
   
