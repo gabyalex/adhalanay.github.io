@@ -19,6 +19,6 @@ footer: true
    subcorcorp al său. Presupunem că $$dim_\mathbb{R} D$$ este finită. Atunci
    dimensiunea lui $$D$$ este 1, 2, sau 4. Mai precis $$D$$ este izomorf cu 
    $$\mathbb{R},\mathbb{C}$$ sau $$\mathbb{H}$$ (corpul cuaternionilor).
-   (Teorema lui Frobenius).\
+   (Teorema lui Frobenius).
 
 4. Arătați că orice corp finit este comutativ (Teorema lui Wedderburn).
