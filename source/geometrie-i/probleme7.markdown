@@ -12,7 +12,7 @@ footer: true
    cardinal.
 
 2. Fie $$\overline{\mathbb{Q}}=\{z \in \mathbb{C} \vert \exists P(X) \in
-   \mathbb{C}[X] \text{ astfel încît } P(z)=0  \}$$. Arătațiți că
+   \mathbb{Q}[X] \text{ astfel încît } P(z)=0  \}$$. Arătațiți că
    $$\overline{\mathbb{Q}}$$ este subcorcorp al lui $$\mathbb{C}$$.
 
 3. Fie $$D$$ un corp (nu neapărat comutativ) astfel că $$\mathbb{R}$$ este un
