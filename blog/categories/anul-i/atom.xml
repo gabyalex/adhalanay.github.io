@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Anul-i | My Octopress Blog]]></title>
   <link href="http://adhalanay.github.io/blog/categories/anul-i/atom.xml" rel="self"/>
   <link href="http://adhalanay.github.io/"/>
-  <updated>2015-01-15T15:36:14+02:00</updated>
+  <updated>2015-01-20T22:37:21+02:00</updated>
   <id>http://adhalanay.github.io/</id>
   <author>
     <name><![CDATA[Andrei Halanay]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Rezultate Anul I]]></title>
+    <link href="http://adhalanay.github.io/blog/2015/01/20/rezultate-anul-i/"/>
+    <updated>2015-01-20T22:28:33+02:00</updated>
+    <id>http://adhalanay.github.io/blog/2015/01/20/rezultate-anul-i</id>
+    <content type="html"><![CDATA[<h2 id="punctajul-de-seminar-pentru-anul-igeometrie-ianul-ipdf"><a href="/geometrie-i/Anul-I.pdf">Punctajul de seminar pentru anul I</a></h2>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Bonus Anul I]]></title>
@@ -46,15 +55,6 @@
     <updated>2014-11-08T19:04:59+02:00</updated>
     <id>http://adhalanay.github.io/blog/2014/11/08/tema-4</id>
     <content type="html"><![CDATA[<h2 id="nucleu-i-imagine-matricegeometrie-iprobleme4html"><a href="/geometrie-i/probleme4.html">Nucleu și imagine. Matrice</a></h2>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Tema 3]]></title>
-    <link href="http://adhalanay.github.io/blog/2014/11/01/tema-3/"/>
-    <updated>2014-11-01T11:14:30+02:00</updated>
-    <id>http://adhalanay.github.io/blog/2014/11/01/tema-3</id>
-    <content type="html"><![CDATA[<h2 id="aplicaii-liniaregeometrie-iprobleme3html"><a href="/geometrie-i/probleme3.html">Aplicații liniare</a></h2>
 ]]></content>
   </entry>
   

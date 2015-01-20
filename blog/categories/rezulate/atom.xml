@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Rezulate | My Octopress Blog]]></title>
+  <link href="http://adhalanay.github.io/blog/categories/rezulate/atom.xml" rel="self"/>
+  <link href="http://adhalanay.github.io/"/>
+  <updated>2015-01-20T22:37:21+02:00</updated>
+  <id>http://adhalanay.github.io/</id>
+  <author>
+    <name><![CDATA[Andrei Halanay]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Rezultate Anul I]]></title>
+    <link href="http://adhalanay.github.io/blog/2015/01/20/rezultate-anul-i/"/>
+    <updated>2015-01-20T22:28:33+02:00</updated>
+    <id>http://adhalanay.github.io/blog/2015/01/20/rezultate-anul-i</id>
+    <content type="html"><![CDATA[<h2 id="punctajul-de-seminar-pentru-anul-igeometrie-ianul-ipdf"><a href="/geometrie-i/Anul-I.pdf">Punctajul de seminar pentru anul I</a></h2>
+]]></content>
+  </entry>
+  
+</feed>

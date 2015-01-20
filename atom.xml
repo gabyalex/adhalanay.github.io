@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://adhalanay.github.io/atom.xml" rel="self"/>
   <link href="http://adhalanay.github.io/"/>
-  <updated>2015-01-15T15:36:14+02:00</updated>
+  <updated>2015-01-20T22:37:21+02:00</updated>
   <id>http://adhalanay.github.io/</id>
   <author>
     <name><![CDATA[Andrei Halanay]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Rezultate Anul I]]></title>
+    <link href="http://adhalanay.github.io/blog/2015/01/20/rezultate-anul-i/"/>
+    <updated>2015-01-20T22:28:33+02:00</updated>
+    <id>http://adhalanay.github.io/blog/2015/01/20/rezultate-anul-i</id>
+    <content type="html"><![CDATA[<h2 id="punctajul-de-seminar-pentru-anul-igeometrie-ianul-ipdf"><a href="http://adhalanay.github.io/geometrie-i/Anul-I.pdf">Punctajul de seminar pentru anul I</a></h2>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Rezultate Anul II]]></title>
