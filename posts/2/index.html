@@ -8,9 +8,10 @@
   <title>My Octopress Blog</title>
   <meta name="author" content="Andrei Halanay">
 
+  <!-- Causes trouble with per-article font implementations under /source/_includes/article.html
   
-  <meta name="description" content="Exemple de suprafete
-">
+  <meta name="description" content="Probleme 6 Nov 13th, 2014 4:53 pm | Comments Exemple de suprafete Tema 4 Nov 8th, 2014 7:04 pm | Comments Nucleu și imagine. Matrice Curbe Strîmbe &hellip;">
+  &#8211;>
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -30,30 +31,17 @@
   <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
 <link href="//fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
 <link href="//fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+<link href="//fonts.googleapis.com/css?family=Poller+One" rel="stylesheet" type="text/css">
+<link href="//fonts.googleapis.com/css?family=Germania+One" rel="stylesheet" type="text/css">
+<link href="//fonts.googleapis.com/css?family=Fontdiner+Swanky" rel="stylesheet" type="text/css">
+<link href="//fonts.googleapis.com/css?family=Lato&subset=latin-ext" rel="stylesheet" type="text/css">
+<link href="//fonts.googleapis.com/css?family=Cardo&subset=latin-ext" rel="stylesheet" type="text/css">
+<link href="//fonts.googleapis.com/css?family=Sorts+Mill+Goudy" rel="stylesheet" type="text/css">
+<link href="//fonts.googleapis.com/css?family=EB+Garamond" rel="stylesheet" type="text/css">
+<link href="//fonts.googleapis.com/css?family=Della+Respira" rel="stylesheet" type="text/css">
+<link href="//fonts.googleapis.com/css?family=UnifrakturMaguntia&subset=all" rel="stylesheet" type="text/css">
+<link href='http://fonts.googleapis.com/css?family=Arimo|EB+Garamond|PT+Sans+Caption&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
 
-  
-  <script type="text/javascript">
-    var _gaq = _gaq || [];
-    _gaq.push(['_setAccount', 'UA-55272469-1']);
-    _gaq.push(['_trackPageview']);
-
-    (function() {
-      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-    })();
-  </script>
-
-
-</head>
-
-<body   >
-  <header role="banner"><hgroup>
-  <h1><a href="/">My Octopress Blog</a></h1>
-  
-    <h2>A blogging framework for hackers.</h2>
-  
-</hgroup>
 <script type="text/x-mathjax-config">
     MathJax.Hub.Config({
       jax: ["input/TeX", "output/HTML-CSS"],
@@ -68,31 +56,63 @@
       //displayIndent: "2em"
     });
 </script>
-<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML" type="text/javascript"></script>
+<script src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML" type="text/javascript"></script>
 
+  
+  <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-55272469-1']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+
+
+</head>
+<!DOCTYPE html>
+<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
+<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<logo>
+
+<img src="/logo.png" alt="Website Logo. Upload to /source/logo.png ; disable in /source/_includes/logo.html" height="32px" width="32px">
+</logo>
+
+
+
+<body >
+  <header role="banner"><hgroup>
+  <h1><a href="/">My Octopress Blog</a></h1>
+  
+    <h2>A blogging framework for hackers.</h2>
+  
+</hgroup>
 
 </header>
-  <nav role="navigation"><ul class="subscription" data-subscription="rss">
-  <li><a href="/atom.xml" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
-  
-</ul>
-  
-<form action="https://www.google.com/search" method="get">
-  <fieldset role="search">
-    <input type="hidden" name="q" value="site:adhalanay.github.io" />
-    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
-  </fieldset>
-</form>
-  
-<ul class="main-navigation">
+  <nav role="navigation"><ul class="main-navigation">
   <li><a href="/">Blog</a></li>
-  <li><a href="/blog/archives">Arhivă</a></li>
-  <li><a href="/blog/categories">Categorii</a></li>
+  <li><a href="/blog/archives">Archives</a></li>
   <li><a href="/curbe-si-suprafete">Curbe și Suprafețe</a></li>
-  <li><a href="/geometrie-i">Geometrie I</a></li>
+  <li><a href="/geometrie-I">Geometrie I</a></li>
   <li><a href="/calcul-numeric">Calcul Numeric</a></li>
 </ul>
 
+<br>
+
+      
+        <form action="https://www.google.com/search" method="get">
+          <fieldset role="search">
+            <input type="hidden" name="q" value="site:adhalanay.github.io" />
+      
+      
+            <input class="search" type="text" name="q" results="0" placeholder="Search"/>
+          </fieldset>
+        </form>
+  
 </nav>
   <div id="main">
     <div id="content">
@@ -104,7 +124,7 @@
       
   <header>
     
-      <h1 class="entry-title"><a href="/blog/2014/11/13/probleme-6/">Probleme 6</a></h1>
+      <h1 class="entry-title" style="font-family: "><a href="/blog/2014/11/13/probleme-6/">Probleme 6</a></h1>
     
     
       <p class="meta">
@@ -115,15 +135,15 @@
 
 <time class='entry-date' datetime='2014-11-13T16:53:12+02:00'><span class='date'><span class='date-month'>Nov</span> <span class='date-day'>13</span><span class='date-suffix'>th</span>, <span class='date-year'>2014</span></span> <span class='time'>4:53 pm</span></time>
         
-           | <a href="/blog/2014/11/13/probleme-6/#disqus_thread"
-             data-disqus-identifier="http://adhalanay.github.io/blog/2014/11/13/probleme-6/">Comments</a>
+         | <a href="/blog/2014/11/13/probleme-6/#disqus_thread">Comments</a>
+        
         
       </p>
     
   </header>
 
 
-  <div class="entry-content"><h2 id="exemple-de-suprafetecurbe-si-suprafeteprobleme6html"><a href="/curbe-si-suprafete/probleme6.html">Exemple de suprafete</a></h2>
+  <div class="entry-content" style="font-family: ; font-size: "><h2 id="exemple-de-suprafetecurbe-si-suprafeteprobleme6html"><a href="/curbe-si-suprafete/probleme6.html">Exemple de suprafete</a></h2>
 </div>
   
   
@@ -136,7 +156,7 @@
       
   <header>
     
-      <h1 class="entry-title"><a href="/blog/2014/11/08/tema-4/">Tema 4</a></h1>
+      <h1 class="entry-title" style="font-family: "><a href="/blog/2014/11/08/tema-4/">Tema 4</a></h1>
     
     
       <p class="meta">
@@ -147,15 +167,15 @@
 
 <time class='entry-date' datetime='2014-11-08T19:04:59+02:00'><span class='date'><span class='date-month'>Nov</span> <span class='date-day'>8</span><span class='date-suffix'>th</span>, <span class='date-year'>2014</span></span> <span class='time'>7:04 pm</span></time>
         
-           | <a href="/blog/2014/11/08/tema-4/#disqus_thread"
-             data-disqus-identifier="http://adhalanay.github.io/blog/2014/11/08/tema-4/">Comments</a>
+         | <a href="/blog/2014/11/08/tema-4/#disqus_thread">Comments</a>
+        
         
       </p>
     
   </header>
 
 
-  <div class="entry-content"><h2 id="nucleu-i-imagine-matricegeometrie-iprobleme4html"><a href="/geometrie-i/probleme4.html">Nucleu și imagine. Matrice</a></h2>
+  <div class="entry-content" style="font-family: ; font-size: "><h2 id="nucleu-i-imagine-matricegeometrie-iprobleme4html"><a href="/geometrie-i/probleme4.html">Nucleu și imagine. Matrice</a></h2>
 </div>
   
   
@@ -168,7 +188,7 @@
       
   <header>
     
-      <h1 class="entry-title"><a href="/blog/2014/11/06/probleme-5/">Curbe Strîmbe și Teorema Celor Patru Vîrfuri</a></h1>
+      <h1 class="entry-title" style="font-family: "><a href="/blog/2014/11/06/probleme-5/">Curbe Strîmbe și Teorema Celor Patru Vîrfuri</a></h1>
     
     
       <p class="meta">
@@ -179,15 +199,15 @@
 
 <time class='entry-date' datetime='2014-11-06T11:57:11+02:00'><span class='date'><span class='date-month'>Nov</span> <span class='date-day'>6</span><span class='date-suffix'>th</span>, <span class='date-year'>2014</span></span> <span class='time'>11:57 am</span></time>
         
-           | <a href="/blog/2014/11/06/probleme-5/#disqus_thread"
-             data-disqus-identifier="http://adhalanay.github.io/blog/2014/11/06/probleme-5/">Comments</a>
+         | <a href="/blog/2014/11/06/probleme-5/#disqus_thread">Comments</a>
+        
         
       </p>
     
   </header>
 
 
-  <div class="entry-content"><p><a href="/curbe-si-suprafete/probleme5.html">Curbe strîmbe și teorema celor patru vîrfuri</a></p>
+  <div class="entry-content" style="font-family: ; font-size: "><p><a href="/curbe-si-suprafete/probleme5.html">Curbe strîmbe și teorema celor patru vîrfuri</a></p>
 </div>
   
   
@@ -200,7 +220,7 @@
       
   <header>
     
-      <h1 class="entry-title"><a href="/blog/2014/11/01/tema-3/">Tema 3</a></h1>
+      <h1 class="entry-title" style="font-family: "><a href="/blog/2014/11/01/tema-3/">Tema 3</a></h1>
     
     
       <p class="meta">
@@ -211,15 +231,15 @@
 
 <time class='entry-date' datetime='2014-11-01T11:14:30+02:00'><span class='date'><span class='date-month'>Nov</span> <span class='date-day'>1</span><span class='date-suffix'>st</span>, <span class='date-year'>2014</span></span> <span class='time'>11:14 am</span></time>
         
-           | <a href="/blog/2014/11/01/tema-3/#disqus_thread"
-             data-disqus-identifier="http://adhalanay.github.io/blog/2014/11/01/tema-3/">Comments</a>
+         | <a href="/blog/2014/11/01/tema-3/#disqus_thread">Comments</a>
+        
         
       </p>
     
   </header>
 
 
-  <div class="entry-content"><h2 id="aplicaii-liniaregeometrie-iprobleme3html"><a href="/geometrie-i/probleme3.html">Aplicații liniare</a></h2>
+  <div class="entry-content" style="font-family: ; font-size: "><h2 id="aplicaii-liniaregeometrie-iprobleme3html"><a href="/geometrie-i/probleme3.html">Aplicații liniare</a></h2>
 </div>
   
   
@@ -232,7 +252,7 @@
       
   <header>
     
-      <h1 class="entry-title"><a href="/blog/2014/10/29/probleme-4/">Curbe Strîmbe</a></h1>
+      <h1 class="entry-title" style="font-family: "><a href="/blog/2014/10/29/probleme-4/">Curbe Strîmbe</a></h1>
     
     
       <p class="meta">
@@ -243,15 +263,15 @@
 
 <time class='entry-date' datetime='2014-10-29T21:17:36+02:00'><span class='date'><span class='date-month'>Oct</span> <span class='date-day'>29</span><span class='date-suffix'>th</span>, <span class='date-year'>2014</span></span> <span class='time'>9:17 pm</span></time>
         
-           | <a href="/blog/2014/10/29/probleme-4/#disqus_thread"
-             data-disqus-identifier="http://adhalanay.github.io/blog/2014/10/29/probleme-4/">Comments</a>
+         | <a href="/blog/2014/10/29/probleme-4/#disqus_thread">Comments</a>
+        
         
       </p>
     
   </header>
 
 
-  <div class="entry-content"><p><a href="/curbe-si-suprafete/probleme4.html">Curbe strîmbe</a></p>
+  <div class="entry-content" style="font-family: ; font-size: "><p><a href="/curbe-si-suprafete/probleme4.html">Curbe strîmbe</a></p>
 </div>
   
   
@@ -264,7 +284,7 @@
       
   <header>
     
-      <h1 class="entry-title"><a href="/blog/2014/10/24/tema-2/">Tema 2 Pentru Anul I</a></h1>
+      <h1 class="entry-title" style="font-family: "><a href="/blog/2014/10/24/tema-2/">Tema 2 Pentru Anul I</a></h1>
     
     
       <p class="meta">
@@ -275,15 +295,15 @@
 
 <time class='entry-date' datetime='2014-10-24T18:10:23+03:00'><span class='date'><span class='date-month'>Oct</span> <span class='date-day'>24</span><span class='date-suffix'>th</span>, <span class='date-year'>2014</span></span> <span class='time'>6:10 pm</span></time>
         
-           | <a href="/blog/2014/10/24/tema-2/#disqus_thread"
-             data-disqus-identifier="http://adhalanay.github.io/blog/2014/10/24/tema-2/">Comments</a>
+         | <a href="/blog/2014/10/24/tema-2/#disqus_thread">Comments</a>
+        
         
       </p>
     
   </header>
 
 
-  <div class="entry-content"><p><a href="/geometrie-i/probleme2.html">Spații și subspații</a></p>
+  <div class="entry-content" style="font-family: ; font-size: "><p><a href="/geometrie-i/probleme2.html">Spații și subspații</a></p>
 
 </div>
   
@@ -297,7 +317,7 @@
       
   <header>
     
-      <h1 class="entry-title"><a href="/blog/2014/10/22/tema3/">Curbura</a></h1>
+      <h1 class="entry-title" style="font-family: "><a href="/blog/2014/10/22/tema3/">Curbura</a></h1>
     
     
       <p class="meta">
@@ -308,15 +328,15 @@
 
 <time class='entry-date' datetime='2014-10-22T23:14:56+03:00'><span class='date'><span class='date-month'>Oct</span> <span class='date-day'>22</span><span class='date-suffix'>nd</span>, <span class='date-year'>2014</span></span> <span class='time'>11:14 pm</span></time>
         
-           | <a href="/blog/2014/10/22/tema3/#disqus_thread"
-             data-disqus-identifier="http://adhalanay.github.io/blog/2014/10/22/tema3/">Comments</a>
+         | <a href="/blog/2014/10/22/tema3/#disqus_thread">Comments</a>
+        
         
       </p>
     
   </header>
 
 
-  <div class="entry-content"><p><a href="/curbe-si-suprafete/probleme3.html">Curbura curbelor plane</a></p>
+  <div class="entry-content" style="font-family: ; font-size: "><p><a href="/curbe-si-suprafete/probleme3.html">Curbura curbelor plane</a></p>
 
 </div>
   
@@ -330,7 +350,7 @@
       
   <header>
     
-      <h1 class="entry-title"><a href="/blog/2014/10/17/tema1/">Tema 1</a></h1>
+      <h1 class="entry-title" style="font-family: "><a href="/blog/2014/10/17/tema1/">Tema 1</a></h1>
     
     
       <p class="meta">
@@ -341,15 +361,15 @@
 
 <time class='entry-date' datetime='2014-10-17T20:07:44+03:00'><span class='date'><span class='date-month'>Oct</span> <span class='date-day'>17</span><span class='date-suffix'>th</span>, <span class='date-year'>2014</span></span> <span class='time'>8:07 pm</span></time>
         
-           | <a href="/blog/2014/10/17/tema1/#disqus_thread"
-             data-disqus-identifier="http://adhalanay.github.io/blog/2014/10/17/tema1/">Comments</a>
+         | <a href="/blog/2014/10/17/tema1/#disqus_thread">Comments</a>
+        
         
       </p>
     
   </header>
 
 
-  <div class="entry-content"><h2 id="exemple-de-spaii-vectoriale-i-altele">Exemple de spații vectoriale și altele:</h2>
+  <div class="entry-content" style="font-family: ; font-size: "><h2 id="exemple-de-spaii-vectoriale-i-altele">Exemple de spații vectoriale și altele:</h2>
 
 <p><a href="/geometrie-i/probleme1.html">Tema 1</a></p>
 </div>
@@ -364,7 +384,7 @@
       
   <header>
     
-      <h1 class="entry-title"><a href="/blog/2014/10/16/probleme2/">Reperul Frenet I</a></h1>
+      <h1 class="entry-title" style="font-family: "><a href="/blog/2014/10/16/probleme2/">Reperul Frenet I</a></h1>
     
     
       <p class="meta">
@@ -375,15 +395,15 @@
 
 <time class='entry-date' datetime='2014-10-16T17:33:08+03:00'><span class='date'><span class='date-month'>Oct</span> <span class='date-day'>16</span><span class='date-suffix'>th</span>, <span class='date-year'>2014</span></span> <span class='time'>5:33 pm</span></time>
         
-           | <a href="/blog/2014/10/16/probleme2/#disqus_thread"
-             data-disqus-identifier="http://adhalanay.github.io/blog/2014/10/16/probleme2/">Comments</a>
+         | <a href="/blog/2014/10/16/probleme2/#disqus_thread">Comments</a>
+        
         
       </p>
     
   </header>
 
 
-  <div class="entry-content"><p><a href="/curbe-si-suprafete/probleme2.html">Reperul Frenet pentru curbe plane</a></p>
+  <div class="entry-content" style="font-family: ; font-size: "><p><a href="/curbe-si-suprafete/probleme2.html">Reperul Frenet pentru curbe plane</a></p>
 </div>
   
   
@@ -396,7 +416,7 @@
       
   <header>
     
-      <h1 class="entry-title"><a href="/blog/2014/10/09/probleme-1/">Noua Temă Pentru Anul II</a></h1>
+      <h1 class="entry-title" style="font-family: "><a href="/blog/2014/10/09/probleme-1/">Noua Temă Pentru Anul II</a></h1>
     
     
       <p class="meta">
@@ -407,15 +427,15 @@
 
 <time class='entry-date' datetime='2014-10-09T01:02:55+03:00'><span class='date'><span class='date-month'>Oct</span> <span class='date-day'>9</span><span class='date-suffix'>th</span>, <span class='date-year'>2014</span></span> <span class='time'>1:02 am</span></time>
         
-           | <a href="/blog/2014/10/09/probleme-1/#disqus_thread"
-             data-disqus-identifier="http://adhalanay.github.io/blog/2014/10/09/probleme-1/">Comments</a>
+         | <a href="/blog/2014/10/09/probleme-1/#disqus_thread">Comments</a>
+        
         
       </p>
     
   </header>
 
 
-  <div class="entry-content"><p><a href="/curbe-si-suprafete/probleme1.html">Tangentă și Normală</a></p>
+  <div class="entry-content" style="font-family: ; font-size: "><p><a href="/curbe-si-suprafete/probleme1.html">Tangentă și Normală</a></p>
 </div>
   
   
@@ -431,47 +451,12 @@
     
   </div>
 </div>
-<aside class="sidebar">
-  
-    <section>
-  <h1>Recent Posts</h1>
-  <ul id="recent_posts">
-    
-      <li class="post">
-        <a href="/blog/2015/02/19/ecuatii-neliniare/">Ecuații Neliniare</a>
-      </li>
-    
-      <li class="post">
-        <a href="/blog/2015/01/20/rezultate-anul-i/">Rezultate Anul I</a>
-      </li>
-    
-      <li class="post">
-        <a href="/blog/2015/01/15/rezultate-anul-ii/">Rezultate Anul II</a>
-      </li>
-    
-      <li class="post">
-        <a href="/blog/2015/01/09/bonus-anul-i/">Bonus Anul I</a>
-      </li>
-    
-      <li class="post">
-        <a href="/blog/2015/01/07/bonus/">Bonus</a>
-      </li>
-    
-  </ul>
-</section>
-
-
-
-
-
-  
-</aside>
 
     </div>
   </div>
   <footer role="contentinfo"><p>
-  Copyright &copy; 2015 - Andrei Halanay -
-  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
+  Website copyright &copy; 2015 - Andrei Halanay |
+  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a> | Themed with <a href="https://github.com/TheChymera/Koenigspress">Königspress</a></span>
 </p>
 
 </footer>

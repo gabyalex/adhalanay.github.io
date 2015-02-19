@@ -8,8 +8,10 @@
   <title>Probleme 0 - My Octopress Blog</title>
   <meta name="author" content="Andrei Halanay">
 
+  <!-- Causes trouble with per-article font implementations under /source/_includes/article.html
   
-  <meta name="description" content="Probleme 0 Sep 30th, 2014 3:50 pm Determinați parametrizări pentru: Elipsă; Hiperbolă; Parabolă. Determinați curba descrisă de un punct material &hellip;">
+  <meta name="description" content="Probleme 0 Sep 30th, 2014 3:50 pm | Edit Determinați parametrizări pentru: Elipsă; Hiperbolă; Parabolă. Determinați curba descrisă de un punct &hellip;">
+  &#8211;>
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -29,30 +31,17 @@
   <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
 <link href="//fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
 <link href="//fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+<link href="//fonts.googleapis.com/css?family=Poller+One" rel="stylesheet" type="text/css">
+<link href="//fonts.googleapis.com/css?family=Germania+One" rel="stylesheet" type="text/css">
+<link href="//fonts.googleapis.com/css?family=Fontdiner+Swanky" rel="stylesheet" type="text/css">
+<link href="//fonts.googleapis.com/css?family=Lato&subset=latin-ext" rel="stylesheet" type="text/css">
+<link href="//fonts.googleapis.com/css?family=Cardo&subset=latin-ext" rel="stylesheet" type="text/css">
+<link href="//fonts.googleapis.com/css?family=Sorts+Mill+Goudy" rel="stylesheet" type="text/css">
+<link href="//fonts.googleapis.com/css?family=EB+Garamond" rel="stylesheet" type="text/css">
+<link href="//fonts.googleapis.com/css?family=Della+Respira" rel="stylesheet" type="text/css">
+<link href="//fonts.googleapis.com/css?family=UnifrakturMaguntia&subset=all" rel="stylesheet" type="text/css">
+<link href='http://fonts.googleapis.com/css?family=Arimo|EB+Garamond|PT+Sans+Caption&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
 
-  
-  <script type="text/javascript">
-    var _gaq = _gaq || [];
-    _gaq.push(['_setAccount', 'UA-55272469-1']);
-    _gaq.push(['_trackPageview']);
-
-    (function() {
-      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-    })();
-  </script>
-
-
-</head>
-
-<body   >
-  <header role="banner"><hgroup>
-  <h1><a href="/">My Octopress Blog</a></h1>
-  
-    <h2>A blogging framework for hackers.</h2>
-  
-</hgroup>
 <script type="text/x-mathjax-config">
     MathJax.Hub.Config({
       jax: ["input/TeX", "output/HTML-CSS"],
@@ -67,31 +56,63 @@
       //displayIndent: "2em"
     });
 </script>
-<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML" type="text/javascript"></script>
+<script src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML" type="text/javascript"></script>
 
+  
+  <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-55272469-1']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+
+
+</head>
+<!DOCTYPE html>
+<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
+<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<logo>
+
+<img src="/logo.png" alt="Website Logo. Upload to /source/logo.png ; disable in /source/_includes/logo.html" height="32px" width="32px">
+</logo>
+
+
+
+<body >
+  <header role="banner"><hgroup>
+  <h1><a href="/">My Octopress Blog</a></h1>
+  
+    <h2>A blogging framework for hackers.</h2>
+  
+</hgroup>
 
 </header>
-  <nav role="navigation"><ul class="subscription" data-subscription="rss">
-  <li><a href="/atom.xml" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
-  
-</ul>
-  
-<form action="https://www.google.com/search" method="get">
-  <fieldset role="search">
-    <input type="hidden" name="q" value="site:adhalanay.github.io" />
-    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
-  </fieldset>
-</form>
-  
-<ul class="main-navigation">
+  <nav role="navigation"><ul class="main-navigation">
   <li><a href="/">Blog</a></li>
-  <li><a href="/blog/archives">Arhivă</a></li>
-  <li><a href="/blog/categories">Categorii</a></li>
+  <li><a href="/blog/archives">Archives</a></li>
   <li><a href="/curbe-si-suprafete">Curbe și Suprafețe</a></li>
-  <li><a href="/geometrie-i">Geometrie I</a></li>
+  <li><a href="/geometrie-I">Geometrie I</a></li>
   <li><a href="/calcul-numeric">Calcul Numeric</a></li>
 </ul>
 
+<br>
+
+      
+        <form action="https://www.google.com/search" method="get">
+          <fieldset role="search">
+            <input type="hidden" name="q" value="site:adhalanay.github.io" />
+      
+      
+            <input class="search" type="text" name="q" results="0" placeholder="Search"/>
+          </fieldset>
+        </form>
+  
 </nav>
   <div id="main">
     <div id="content">
@@ -100,12 +121,17 @@
   
   <header>
     <h1 class="entry-title">Probleme 0</h1>
-    <p class="meta">
+    
+        <p class="meta">
+            
 
 
 
 
-<time class='entry-date' datetime='2014-09-30T15:50:00+03:00'><span class='date'><span class='date-month'>Sep</span> <span class='date-day'>30</span><span class='date-suffix'>th</span>, <span class='date-year'>2014</span></span> <span class='time'>3:50 pm</span></time></p>
+<time class='entry-date' datetime='2014-09-30T15:50:00+03:00'><span class='date'><span class='date-month'>Sep</span> <span class='date-day'>30</span><span class='date-suffix'>th</span>, <span class='date-year'>2014</span></span> <span class='time'>3:50 pm</span></time> | 
+            <a href="/curbe-si-suprafete/probleme0.markdown">Edit</a>
+        </p>
+    
   </header>
   
   <ol>
@@ -213,7 +239,7 @@ vor ajunge la bază în același timp sub acțiunea gravitației.</p>
 <p>“<a href="https://commons.wikimedia.org/wiki/File:Tautochrone_curve.gif#mediaviewer/File:Tautochrone_curve.gif">Tautochrone curve</a>” by Claudio Rocchinirewritten by <a href="//commons.wikimedia.org/wiki/User:Geek3" title="User:Geek3">Geek3</a> - <span class="int-own-work">Own work</span>. Licensed under <a title="Creative Commons Attribution 2.5" href="http://creativecommons.org/licenses/by/2.5">CC BY 2.5</a> via <a href="//commons.wikimedia.org/wiki/">Wikimedia Commons</a>.</p>
 
   
-    <footer>
+    <footer class="page-footer">
       <p class="meta">
         
         
@@ -223,8 +249,10 @@ vor ajunge la bază în același timp sub acțiunea gravitației.</p>
 
 <time class='entry-date' datetime='2014-09-30T15:50:00+03:00'><span class='date'><span class='date-month'>Sep</span> <span class='date-day'>30</span><span class='date-suffix'>th</span>, <span class='date-year'>2014</span></span> <span class='time'>3:50 pm</span></time>
         
+        
 
-<span class="categories">
+<br><span class="categories">
+  In categories:
   
     <a class='category' href='/blog/categories/anul-ii/'>Anul-II</a>, <a class='category' href='/blog/categories/teme/'>Teme</a>
   
@@ -243,50 +271,14 @@ vor ajunge la bază în același timp sub acțiunea gravitației.</p>
 </div>
   </section>
 
+
 </div>
-
-<aside class="sidebar">
-  
-    <section>
-  <h1>Recent Posts</h1>
-  <ul id="recent_posts">
-    
-      <li class="post">
-        <a href="/blog/2015/02/19/ecuatii-neliniare/">Ecuații Neliniare</a>
-      </li>
-    
-      <li class="post">
-        <a href="/blog/2015/01/20/rezultate-anul-i/">Rezultate Anul I</a>
-      </li>
-    
-      <li class="post">
-        <a href="/blog/2015/01/15/rezultate-anul-ii/">Rezultate Anul II</a>
-      </li>
-    
-      <li class="post">
-        <a href="/blog/2015/01/09/bonus-anul-i/">Bonus Anul I</a>
-      </li>
-    
-      <li class="post">
-        <a href="/blog/2015/01/07/bonus/">Bonus</a>
-      </li>
-    
-  </ul>
-</section>
-
-
-
-
-
-  
-</aside>
-
 
     </div>
   </div>
   <footer role="contentinfo"><p>
-  Copyright &copy; 2015 - Andrei Halanay -
-  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
+  Website copyright &copy; 2015 - Andrei Halanay |
+  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a> | Themed with <a href="https://github.com/TheChymera/Koenigspress">Königspress</a></span>
 </p>
 
 </footer>
