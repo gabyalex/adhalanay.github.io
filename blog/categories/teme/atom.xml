@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Teme | My Octopress Blog]]></title>
   <link href="http://adhalanay.github.io/blog/categories/teme/atom.xml" rel="self"/>
   <link href="http://adhalanay.github.io/"/>
-  <updated>2015-01-20T22:37:21+02:00</updated>
+  <updated>2015-02-19T11:48:54+02:00</updated>
   <id>http://adhalanay.github.io/</id>
   <author>
     <name><![CDATA[Andrei Halanay]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Ecuații Neliniare]]></title>
+    <link href="http://adhalanay.github.io/blog/2015/02/19/ecuatii-neliniare/"/>
+    <updated>2015-02-19T11:43:40+02:00</updated>
+    <id>http://adhalanay.github.io/blog/2015/02/19/ecuatii-neliniare</id>
+    <content type="html"><![CDATA[<h2 id="metode-de-determinare-a-rdcinilorcalcul-numericprobleme1html"><a href="/calcul-numeric/probleme1.html">Metode de determinare a rădăcinilor</a></h2>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Bonus Anul I]]></title>
@@ -46,15 +55,6 @@
     <updated>2014-12-04T15:13:11+02:00</updated>
     <id>http://adhalanay.github.io/blog/2014/12/04/probleme-9</id>
     <content type="html"><![CDATA[<h2 id="a-doua-form-fundamentalcurbe-si-suprafeteprobleme9html"><a href="/curbe-si-suprafete/probleme9.html">A doua formă fundamentală</a></h2>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Probleme 8]]></title>
-    <link href="http://adhalanay.github.io/blog/2014/11/27/probleme-8/"/>
-    <updated>2014-11-27T18:06:24+02:00</updated>
-    <id>http://adhalanay.github.io/blog/2014/11/27/probleme-8</id>
-    <content type="html"><![CDATA[<h2 id="prima-form-fundamentalcurbe-si-suprafeteprobleme8html"><a href="/curbe-si-suprafete/probleme8.html">Prima formă fundamentală</a></h2>
 ]]></content>
   </entry>
   

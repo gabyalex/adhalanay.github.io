@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Anul-iii | My Octopress Blog]]></title>
+  <link href="http://adhalanay.github.io/blog/categories/anul-iii/atom.xml" rel="self"/>
+  <link href="http://adhalanay.github.io/"/>
+  <updated>2015-02-19T11:48:54+02:00</updated>
+  <id>http://adhalanay.github.io/</id>
+  <author>
+    <name><![CDATA[Andrei Halanay]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Ecuații Neliniare]]></title>
+    <link href="http://adhalanay.github.io/blog/2015/02/19/ecuatii-neliniare/"/>
+    <updated>2015-02-19T11:43:40+02:00</updated>
+    <id>http://adhalanay.github.io/blog/2015/02/19/ecuatii-neliniare</id>
+    <content type="html"><![CDATA[<h2 id="metode-de-determinare-a-rdcinilorcalcul-numericprobleme1html"><a href="/calcul-numeric/probleme1.html">Metode de determinare a rădăcinilor</a></h2>
+]]></content>
+  </entry>
+  
+</feed>
